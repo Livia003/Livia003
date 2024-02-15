@@ -1,6 +1,6 @@
 # 💻🌍 Sobre mim:
 
-Olá! 👋 Sou a Lívia! Estudante de Ciência da Computação na Universidade Estadual do Sudoeste da Bahia, apaixonada por explorar o mundo do back-end, ética na computação e blockchain. Acredito no poder da tecnologia como ferramenta para impulsionar a transformação social.Além do mundo digital, sou ativista pela justiça social (já pensou em ser também? deveria! hehehe).
+Olá! 👋 Sou a Lívia! Estudante de Ciência da Computação na Universidade Estadual do Sudoeste da Bahia, apaixonada por explorar o mundo do back-end, ética na computação e blockchain. Acredito no poder da tecnologia como ferramenta para impulsionar a transformação social. Além do mundo digital, sou ativista pela justiça social (já pensou em ser também? deveria! hehehe).
 
 <br>No momento, tenho me esforçado ao máximo para atualizar esse perfil (eu juro). Quando não estou imersa em linhas de código, você me encontrará curtindo a companhia da minha cachorrinha fofa, pensando em como fazer a diferença no mundo ou mergulhada em um bom livro. <br>
 
