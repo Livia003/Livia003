@@ -38,7 +38,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Livia003/Livia003/output/snake.svg" alt="Snake animation" />
 
 ###
 
