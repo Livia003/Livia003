@@ -9,11 +9,6 @@
 <p align="center">Estudante de Ciência da Computação na Universidade Estadual do Sudoeste da Bahia.  Alimentado a minha vaidade por números, ideias,  teorias, códigos e palavras.</p>
 
 ###
-
-<div align="center">
-  <img height="200" src="https://drive.google.com/file/d/1jX4cYw8BsNx-_Ko8xoAtxGdSzu9gxZXd/view?usp=drive_link"  />
-</div>
-
 ###
 
 <div align="center">
